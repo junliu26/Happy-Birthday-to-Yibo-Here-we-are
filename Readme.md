@@ -82,4 +82,5 @@ The processed data were stored in a PostgreSQL database hosted on AWS EC2 and pr
 
 Flask, a python microserver framework, was used to build the API and GUI to expose the data to end users.
 
-## Next Step
+## Reference
+[【微信小程序+echarts点亮中国地图】微信小程序echarts中国地图点亮功能](https://blog.csdn.net/qq_41101762/article/details/107426786)
